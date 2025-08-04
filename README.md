@@ -167,7 +167,10 @@ npm run test:e2e
 
 ## 📈 Roadmap
 
-- [ ] Support for more file formats (Markdown, CSV)
+- [ ] Implement User Authentication
+- [ ] LLM Chatbot
+- [ ] File Upload saved to DB
+- [ ] Chat uses RAG
 - [ ] Local LLM option with Ollama
 - [ ] Collaborative agent sharing
 - [ ] Mobile app
