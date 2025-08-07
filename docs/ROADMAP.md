@@ -13,14 +13,14 @@
 
 #### 1.1 Project Setup
 - [X] Initialize Git repository with proper .gitignore
-- [ ] Set up project structure (backend/frontend folders)
-- [ ] Create documentation templates
-- [ ] Set up development environment configs
+- [X] Set up project structure (backend/frontend folders)
+- [X] Create documentation templates
+- [X] Set up development environment configs
 
 #### 1.2 Basic Backend
-- [ ] FastAPI application skeleton
-- [ ] Database models (User, Agent, Document)
-- [ ] Basic authentication (JWT)
+- [X] FastAPI application skeleton
+- [X] Database models (User, Agent, Document)
+- [X] Basic authentication (JWT)
 - [ ] File upload endpoint (accept single PDF)
 - [ ] Simple text extraction from PDF
 
