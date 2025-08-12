@@ -18,3 +18,4 @@ python-dotenv==1.0.0
 pydantic-settings==2.1.0
 pydantic[email]
 python-multipart
+python-magic==0.4.27

@@ -6,6 +6,7 @@ sys.path.append(str(Path(__file__).parent.parent))
 from sqlalchemy import create_engine
 from app.core.config import settings
 from app.models.user import Base
+from app.models.document import Document
 
 def init_db():
     """Create all database tables"""
