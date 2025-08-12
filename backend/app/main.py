@@ -25,3 +25,4 @@ async def health_check():
     return {"status": "healthy"}
 
 app.include_router(auth.router, prefix="/api/auth", tags=["auth"])
+app.include_router(documents.router, prefix="/api/documents", tags=["documents"])
