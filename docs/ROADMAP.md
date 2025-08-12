@@ -21,8 +21,8 @@
 - [X] FastAPI application skeleton
 - [X] Database models (User, Agent, Document)
 - [X] Basic authentication (JWT)
-- [ ] File upload endpoint (accept single PDF)
-- [ ] Simple text extraction from PDF
+- [X] File upload endpoint (accept single PDF)
+- [X] Simple text extraction from PDF
 
 #### 1.3 Basic Frontend
 - [ ] React + TypeScript setup with Vite
