@@ -1,7 +1,7 @@
 """
 Database utilities for testing.
 """
-from typing import Optional, List, Any
+from typing import Optional, List, Any, Dict
 from contextlib import contextmanager
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import Session, sessionmaker

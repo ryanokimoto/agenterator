@@ -1,8 +1,9 @@
 from sqlalchemy import Column, Integer, String, ForeignKey, Float, Text, Enum, DateTime
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
-from sqlalchemy.user import Base
 import enum
+
+from app.models.user import Base
 
 class DocumentStatus(enum.Enum):
     PENDING = "pending"

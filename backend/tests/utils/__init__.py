@@ -6,7 +6,7 @@ from .helpers import (
     compare_dict_subset,
 )
 from .auth import AuthHelper
-from .databse import TestDatabase
+from .database import TestDatabase
 
 __all__ = [
     "UserFactory",

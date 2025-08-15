@@ -7,7 +7,6 @@ TEST_CONFIG = {
 }
 
 from tests.utils.factories import UserFactory, DocumentFactory
-from tests.utils.fixtures import *
 from tests.utils.helpers import *
 
 __all__ = [
